@@ -15,5 +15,18 @@ tenho 15 anos, moro em sao jose das palmeiras/pr e sou aluno da disciplinade pen
 <code>    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <code>    <i class="devicon-css3-plain"></i>          
 <code>    <i class="devicon-javascript-plain"></i>
-<code>    <          
+<code>    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<code>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<code>    <i class="devicon-vscode-plain"></i>
+                
+</br>                     
+</br>                  
+<div display="inline-block">
+<p align="left"> Sou aluno de CE Sao Jose </p>
+<p align="left"> Estou estudando HTML5, CSS3 E JAVASCRIPT </p>
+
+</br>
+
+
+</br>
 
